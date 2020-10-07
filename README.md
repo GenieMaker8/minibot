@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=Pbk3FJg0sq4
 
 Re-install Mini Bot Droid program: 
 ==================================
-If Mini Bot was reloaded with other example programs, the origin Mini Bot Droid program will be erased. You can re-install the binary by following steps.   
+If Mini Bot was reloaded with other example programs from Arduino, the origin Mini Bot Droid program will be erased. You can re-install the binary by following steps.   
 
 1. Download the hex file bot33_mini_bot.ino.hex into your folder C:\Users\<username>\Downloads
 2. Find the port name by looking up at the Arduino IDE. 
