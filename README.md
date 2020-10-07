@@ -8,7 +8,7 @@ Folloing our assembly video in our youtube channcel
 
 https://www.youtube.com/watch?v=-MLlWDRjhKo
 
-Mini Bot Droid Demo 
+Mini Bot Droid Self-Driving in action 
 ====================
 https://www.youtube.com/watch?v=s8Ky_U1seNI
 
