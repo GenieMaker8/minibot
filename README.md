@@ -9,8 +9,12 @@ Folloing our assembly video in our youtube channcel
 https://www.youtube.com/watch?v=-MLlWDRjhKo
 
 Mini Bot Droid Self-Driving in action 
-====================
+=====================================
 https://www.youtube.com/watch?v=s8Ky_U1seNI
+
+Mini Bot Droid Back Away mode  
+=============================
+https://www.youtube.com/watch?v=Pbk3FJg0sq4
 
 
 Re-install Mini Bot Droid program: 
