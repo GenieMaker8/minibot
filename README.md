@@ -1,5 +1,5 @@
 # Mini Bot Droid
-License Agreement: Cannot use Mini Bot files and its source codes for anything that might be considered commercial use.
+License Agreement: Cannot use Mini Bot files and its codes including binary for anything that might be considered commercial use.
 
 
 Mini Bot Droid Assembly
