@@ -1,10 +1,17 @@
 # minibot
 
+
+
 Mini Bot Droid Assembly
 ========================
 Folloing our assembly video in our youtube channcel 
 
 https://www.youtube.com/watch?v=-MLlWDRjhKo
+
+Mini Bot Droid Demo 
+====================
+https://www.youtube.com/watch?v=s8Ky_U1seNI
+
 
 Re-install Mini Bot Droid program: 
 ==================================
