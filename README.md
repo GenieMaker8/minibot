@@ -9,6 +9,7 @@ Folloing our assembly video in our youtube channcel
 https://www.youtube.com/watch?v=-MLlWDRjhKo
 
 Instruction of sensors connection
+
 Sensors_to_shield_connection.png
 
 Mini Bot Droid Self-Driving in action 
@@ -18,9 +19,11 @@ https://www.youtube.com/watch?v=s8Ky_U1seNI
 Mini Bot Droid mode  
 =============================
 Back away mode
+
 https://www.youtube.com/watch?v=Pbk3FJg0sq4
 
 Other mode
+
 Droid_mode_and_lowbatteryLED.png
 
 Re-install Mini Bot Droid program: 
